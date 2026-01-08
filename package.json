@@ -36,7 +36,7 @@
     "node-cache": "^5.1.2",
     "pg": "^8.14.1",
     "react-country-flag": "^3.1.0",
-    "react-router-dom": "^6.15.0",
+    "react-router-dom": "^6.30.3",
     "sequelize": "^6.37.7",
     "sequelize-cli": "^6.6.2",
     "streamifier": "^0.1.1",
